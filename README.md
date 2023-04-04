@@ -11,7 +11,7 @@ I learned how to implement JavaScript into HTML/CSS and solve the problem presen
 
 ## Installation
 
-Follow this link to access the Password Generator: 
+Follow this link to access the Password Generator: https://sydneyloggins.github.io/Password-Generator-/
 
 ## Usage
 1. Click the "Generate Password" button to begin the prompts. ![Screenshot 2023-04-04 at 10 22 41 AM](https://user-images.githubusercontent.com/125998308/229840790-52731418-2bbe-430e-a358-c8084c1f89eb.png)
